@@ -1,4 +1,4 @@
-# Desarrollo-de-una-API
+# Desarrollo de una API
 Creación de una API con su base de datos para desarrollo propio, creando y utilizando las operaciones basicas CRUD
 
 ## Starting 🚀
@@ -35,4 +35,4 @@ Back-End Installation
 - Mongo Atlas: Used to store the information of the database.
 
 ## Author
-- [@Ladyriv] (https://github.com/Ladyriv)
+- [@Ladyriv](https://github.com/Ladyriv)
